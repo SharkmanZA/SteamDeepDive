@@ -1,0 +1,12 @@
+# MISC
+REMINDERS.md
+
+# Folders
+data/*
+src/utils
+
+# UV package management specific
+.venv
+.python-version
+pyproject.toml
+uv.lock
