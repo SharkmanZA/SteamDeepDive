@@ -1,8 +1,8 @@
 # Review based Recommender System for Steam
 
 <div align="center">
-    <img src="resources/steam.gif" width="200" height="200" />
-    <img src="resources/steam-wallet-sad.gif" width="200" height="200" />
+    <img src="resources/steam.gif" width="400" height="400" />
+    <img src="resources/steam-wallet-sad.gif" width="400" height="400" />
 </div>
 
 # Whats it all about?
