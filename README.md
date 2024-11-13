@@ -1,8 +1,13 @@
-# Steam Game Recommender System
+# Review based Recommender System for Steam
 
-![alt text](resources/steam-image.jpg)
+<div align="center">
+    <img src="resources/steam.gif" width="200" height="200" />
+    <img src="resources/steam-wallet-sad.gif" width="200" height="200" />
+</div>
 
 # Whats it all about?
+
+Ill fill this in soon ;)
 
 ## Some sample data
 
@@ -47,6 +52,12 @@
 
 ## How to run this project?
 
+## Clone the repository
+
+```bash
+git clone https://github.com/SharkmanZA/SteamDeepDive.git
+```
+
 ## Install required packages
 
 Install the required packages and create a virtual environment by running the
@@ -55,3 +66,5 @@ following command if you have [uv](https://docs.astral.sh/uv/) installed:
 ```bash
 uv sync
 ```
+
+
