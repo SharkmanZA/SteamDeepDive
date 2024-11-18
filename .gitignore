@@ -6,6 +6,6 @@ data/*
 
 # UV package management specific
 .venv
-.python-version
-pyproject.toml
-uv.lock
+# .python-version
+# pyproject.toml
+# uv.lock

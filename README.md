@@ -1,15 +1,29 @@
 # Review based Recommender System for Steam
 
 <div align="center">
+    <img src="resources/Collaborative-Recommender-System.webp" width="800" height="400" />
+</div>
+<div align="center">
     <img src="resources/steam.gif" width="400" height="400" />
     <img src="resources/steam-wallet-sad.gif" width="400" height="400" />
 </div>
 
 # Whats it all about?
 
-Ill fill this in soon ;)
+Recommendation Systems are widely used throughout the
+world in all kinds of software. Well known platforms such as
+Netflix or Showmax where series/movies are recommended
+to you based on certain criteria. Gaming has also picked
+up largely since the rapid increase of computation since the
+early 2000s. Covid in 2020 also has played a large role in
+introducing more people to online entertainment. Online
+entertainment while being watching series and/or movies,
+is also gaming. This repository provides an investigation into
+recommendation systems and how they can be applied to the
+online platform Steam, which is the most well known online
+platform to acquire games for Desktop/Laptop gaming.
 
-## Some sample data
+## Sample data for 'Portal 2'
 
 ### Game
 ```json
@@ -52,13 +66,13 @@ Ill fill this in soon ;)
 
 ## How to run this project?
 
-## Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/SharkmanZA/SteamDeepDive.git
 ```
 
-## Install required packages
+### Install required packages
 
 Install the required packages and create a virtual environment by running the
 following command if you have [uv](https://docs.astral.sh/uv/) installed:
@@ -67,4 +81,15 @@ following command if you have [uv](https://docs.astral.sh/uv/) installed:
 uv sync
 ```
 
+Dependencies can be found in pyproject.toml
 
+
+## Explore Juypter Notebooks
+
+```bash
+├── src
+│   ├── main
+│   │   ├── games.ipynb
+│   │   ├── recommendation_system.ipynb
+│   │   └── reviews.ipynb
+```
