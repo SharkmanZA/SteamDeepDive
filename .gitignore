@@ -2,7 +2,8 @@
 REMINDERS.md
 
 # Folders
-data/*
+data/final/*
+data/raw/*
 
 # UV package management specific
 .venv
